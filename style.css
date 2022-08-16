@@ -26,7 +26,7 @@ section{
 .subtitulo-destaque{
     font-size: 1cm;
     color: rgb(255, 0, 0);
-    padding: 8px;
+    padding: 50px;
     text-align: center;
     font-size: 50px;
     display: flex;
@@ -97,4 +97,19 @@ body{
     justify-content: center;
     align-items: center;
     
+}
+.era{
+    font-size: 1cm;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.link{
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+
+}
+.link:hover{
+    transform: scale(1.9);
 }
